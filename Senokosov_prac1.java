@@ -31,8 +31,6 @@ public class Main{
                 break;
             default:
                 System.out.println("Ошибка, введено недопустимое значение");
-
-
         }
 
     }
